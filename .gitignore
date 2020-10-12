@@ -1,0 +1,7 @@
+*.exe
+go.sum
+
+.vscode
+.prettierrc
+.history
+.local
